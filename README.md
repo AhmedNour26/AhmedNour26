@@ -1,15 +1,6 @@
 # Hi there, I'm Ahmed Nour 👋
 ### Digital IC Design & Embedded Systems Engineer
 
-<p align="left">
-  <a href="www.linkedin.com/in/ahmednour-dv">
-  </a>
-  <a href="mailto:ahmedmohamednoour@gmail.com">
-  </a>
-</p>
-
----
-
 ### 🚀 About Me
 I am a passionate **Hardware Engineer** focused on **RTL Design** and **Embedded Systems**. I enjoy bridging the gap between hardware architecture and low-level software implementation. My portfolio includes extensive work in Verilog for IC design and bare-metal firmware for different microcontrollers.
 
