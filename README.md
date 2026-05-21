@@ -3,10 +3,8 @@
 
 <p align="left">
   <a href="www.linkedin.com/in/ahmednour-dv">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ahmedmohamednoour@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -39,7 +37,6 @@ I am a passionate **Hardware Engineer** focused on **RTL Design** and **Embedded
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-Sim-green)
-![STM32cubeIDE]()
 
 ---
 
@@ -56,8 +53,4 @@ I am a passionate **Hardware Engineer** focused on **RTL Design** and **Embedded
 - **[SmartAQM Bare-Metal STM32](https://github.com/AhmedNour26/SmartAQM_BareMetal_STM32):** Professional-grade air quality monitor built using bare-metal C (CMSIS) on ARM Cortex-M.
 - **[Smart Home Security (ESP32)](https://github.com/AhmedNour26/smart-home-security-esp32):** IoT-based security solution featuring wireless communication and sensor integration.
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedNour26&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmed's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNour26&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+
