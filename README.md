@@ -45,3 +45,4 @@ I am a passionate **Hardware Engineer** focused on **RTL Design** and **Embedded
 
 #### 📝 Signal Processing 
 - **[Voice Spectrum Analyzer](https://github.com/AhmedNour26/Voice-Spectrum-Analyzer):** Real-time signal processing and frequency analysis implementation.
+- **[Adaptive Echo Cancellation](https://github.com/AhmedNour26/-Adaptive-Echo-Cancellation-Using-LMS-and-NLMS-):** Adaptive Echo Cancellation implementation using LMS and NLMS algorithms in MATLAB.
