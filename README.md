@@ -35,7 +35,6 @@ I am a passionate **Hardware Engineer** focused on **RTL Design** and **Embedded
 
 #### 🛠️ Digital IC & FPGA Design
 - **[Spartan-6 DSP48A1 Design](https://github.com/AhmedNour26/spartan6-dsp48a1-design):** Advanced FPGA design utilizing Xilinx DSP slices for high-performance arithmetic operations.
-- **[Voice Spectrum Analyzer](https://github.com/AhmedNour26/Voice-Spectrum-Analyzer):** Real-time signal processing and frequency analysis implementation.
 - **[Five-Operation ALU (LTspice & Verilog)](https://github.com/AhmedNour26/Five-Operation-ALU_LTspice_Verilog):** A unique cross-layer project featuring both transistor-level simulation (LTspice) and RTL implementation.
 - **[SPI Slave & Single Port RAM](https://github.com/AhmedNour26/spi-slave-single-port-ram):** Implementation of synchronous serial communication interfaced with memory blocks.
 - **[Digital IC Design Portfolio](https://github.com/AhmedNour26/digital-IC-design-portfolio):** A master library of 50+ RTL modules including FSMs, counters, and logic controllers.
@@ -44,4 +43,5 @@ I am a passionate **Hardware Engineer** focused on **RTL Design** and **Embedded
 - **[SmartAQM Bare-Metal STM32](https://github.com/AhmedNour26/SmartAQM_BareMetal_STM32):** Professional-grade air quality monitor built using bare-metal C (CMSIS) on ARM Cortex-M.
 - **[Smart Home Security (ESP32)](https://github.com/AhmedNour26/smart-home-security-esp32):** IoT-based security solution featuring wireless communication and sensor integration.
 
-
+#### 📝 Signal Processing 
+- **[Voice Spectrum Analyzer](https://github.com/AhmedNour26/Voice-Spectrum-Analyzer):** Real-time signal processing and frequency analysis implementation.
